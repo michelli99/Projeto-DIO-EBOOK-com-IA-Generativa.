@@ -1,4 +1,15 @@
+Projeto DIO - Ebook com IA Generativa.
+
+                             
                              ARTE+IA: A Dupla Improvável que Vai Redefinir o Mundo
+
+IAs Utilizadas:
+
+ChatGPT - Roteirização;
+
+IA do Canva - Gerar imagens;
+
+MidJourney - Gerar imagens.
 
 
 
